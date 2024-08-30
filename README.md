@@ -5,6 +5,6 @@ My TOP (The Odin Project) HTML webpage project utilizing:
 - List Element
 - Strong Element
 - Em Element
-- Links Element
-- Images Element
+- Link Element
+- Image Element
 
